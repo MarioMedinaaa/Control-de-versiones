@@ -6,8 +6,8 @@ int main() {
     printf("\n%d", b);
     while (b < x++) {
         int y = a + b;
-        a = b + 1;
-        b = y - 1;
+        a = b 
+        b = y
         printf("\n%d", y);
    }
 }   
